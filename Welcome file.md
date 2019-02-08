@@ -137,11 +137,12 @@ And this will produce a flow chart:
 ```mermaid
 graph LR
 A[customer walks in] 
--- new --> B((Circle))
+
+-- new --> c((Circle))
 A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDk1MTg5M119
+eyJoaXN0b3J5IjpbMjA1MzU4MjExMF19
 -->
