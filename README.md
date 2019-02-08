@@ -1,10 +1,11 @@
-# hello-world
+# hello-digiworld
 
 
-Finally took my first step into the world of digital with 
+My first step into the digiworld! 
+So not sure what this first repo 
 https://github.com/ray3arkha/hello-world
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjIyMjI0XX0=
+eyJoaXN0b3J5IjpbMTc1NzI5MTg5NF19
 -->
